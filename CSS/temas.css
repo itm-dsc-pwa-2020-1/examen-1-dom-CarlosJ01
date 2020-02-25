@@ -1,0 +1,57 @@
+/* Tema Claro */
+.Claro{
+    background: #f5f2f1;
+	color: #000000;
+}
+.Claro header{
+    background: white;
+    border-bottom: #eb0028 10px solid;
+}
+
+.Claro aside > #Precio{
+    color: #eb0028;
+}
+
+.Claro footer{
+    background-color: white;
+    border-top: #eb0028 10px solid;
+}
+
+.Claro .Botones button{
+    border: 2px solid #eb0028;
+    color: black;
+}
+
+.Claro .Botones button:hover{
+    background-color: #eb0028;
+    color: white;
+}
+
+/* Tema Oscuro */
+.Oscuro{
+    background: #252526;
+    color: #ccccc2;
+}
+.Oscuro header{
+    background: #3c3c3c;
+    border-bottom: #950e0e 10px solid;
+}
+
+.Oscuro aside > #Precio{
+    color: #950e0e;
+}
+
+.Oscuro footer{
+    background-color: #3c3c3c;
+    border-top: #950e0e 10px solid;
+}
+
+.Oscuro .Botones button{
+    border: 2px solid #950e0e;
+    color:#ccccc2;
+}
+
+.Oscuro .Botones button:hover{
+    background-color: #950e0e;
+    color: #ccccc2;
+}
